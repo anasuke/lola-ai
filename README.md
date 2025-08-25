@@ -1,16 +1,5 @@
-<picture>
-  <source
-    width="100%"
-    srcset="./docs/content/public/banner-dark-1280x640.avif"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    width="100%"
-    srcset="./docs/content/public/banner-light-1280x640.avif"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="250" src="./docs/content/public/banner-light-1280x640.avif" />
-</picture>
+
+<img width="1500" height="1000" alt="lola1" src="https://github.com/user-attachments/assets/dfbc7a1c-2bba-48f6-8c24-717332ad4d0f" />
 
 <h1 align="center">Project AIRI</h1>
 
