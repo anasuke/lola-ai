@@ -1,7 +1,7 @@
 
 <img width="1500" height="1000" alt="lola1" src="https://github.com/user-attachments/assets/dfbc7a1c-2bba-48f6-8c24-717332ad4d0f" />
 
-<h1 align="center">Project AIRI</h1>
+<h1 align="center">Lola AI Companion</h1>
 
 <p align="center">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>
 
